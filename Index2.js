@@ -6,4 +6,4 @@ let city = "Medellin"
 
 
 console. log(
-    "Mi nombre es", name, Lastname, "Tengo", age, "Años", "naci el", birthDate, "y soy de", city)
+    "My name is", name, Lastname, "I am", age, "Years", "I was born on", birthDate, "I'm from", city)
